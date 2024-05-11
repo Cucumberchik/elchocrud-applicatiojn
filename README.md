@@ -1,1 +1,9 @@
-#Aitengirchik
+
+
+
+
+``
+npm i 
+#or 
+yarn
+``
